@@ -2,6 +2,9 @@
 
 Uma plataforma de atendimento robusta baseada no **Whaticket Gold**, aprimorada com um módulo Kanban, modo noturno e integrações avançadas para otimizar a comunicação com seus clientes. Distribuído por **Launcher & Co.**
 
+A distribuição da versão Free está temporariamte suspensa, com as recentes mudanças do WhatsApp relacionadas a JID/LID as versões anteriores deixaram de ser estavéis e foram removidas. </br>
+Para ter um sistema funcional adiquira o acesso a versão privada, promocionalmente com 50% de desconto no link de renovação de acesso abaixo:
+
 -----
 
 #### **🛒 Adquira sua Licença Comercial e Acesso ao Suporte**
