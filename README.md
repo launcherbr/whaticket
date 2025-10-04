@@ -64,9 +64,10 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **🔄 Ver Histórico de Versões (Changelog)**
 
-#### **Versão 6.3.0** (`20/09/2025`)
+#### **Versão 6.3.1** (`29/09/2025`)
 
   * Correção de bugs relacionados a JID/LID.
+  * Melhorias de Performance
 
 #### **Versão 6.0.0** (`16/04/2025`)
 
