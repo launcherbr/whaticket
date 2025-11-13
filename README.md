@@ -11,7 +11,7 @@ Para ter um sistema funcional adiquira o acesso a versão privada, promocionalme
 
 Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigatória a aquisição de uma licença.
 
-  * [Loja InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba/)
+  * [Loja InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba/) **Melhor Oferta**
   * [Checkout Kirvano](https://pay.kirvano.com/a5103244-08d5-418f-8221-7172849dd65f)
   * [Anúncio DFG](https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065)
 
