@@ -64,6 +64,11 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **🔄 Ver Histórico de Versões (Changelog)**
 
+#### **Versão 6.3.5** (`11/11/2025`)
+
+  * Mercado Pago
+  * Gemini
+
 #### **Versão 6.3.1** (`29/09/2025`)
 
   * Correção de bugs relacionados a JID/LID.
