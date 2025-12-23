@@ -64,6 +64,10 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **🔄 Ver Histórico de Versões (Changelog)**
 
+#### **Versão 6.5.0** (`23/12/2025`)
+
+  * Backup
+
 #### **Versão 6.3.5** (`11/11/2025`)
 
   * Mercado Pago
