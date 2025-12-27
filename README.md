@@ -64,16 +64,22 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **🔄 Ver Histórico de Versões (Changelog)**
 
-#### **Versão 6.5.0** (`23/12/2025`)
+#### **Versão 6.3.5** (`23/12/2025`)
 
-  * Backup
+  * Script de Backup
+  * Aniversários e Feriados
 
 #### **Versão 6.3.5** (`11/11/2025`)
 
   * Mercado Pago
   * Gemini
 
-#### **Versão 6.3.1** (`29/09/2025`)
+#### **Versão 6.3.2** (`28/09/2025`)
+
+  * Correção de criptografia de grupos
+  * Correções lib/wbot.ts
+
+#### **Versão 6.3.1** (`20/09/2025`)
 
   * Correção de bugs relacionados a JID/LID.
   * Melhorias de Performance
@@ -94,45 +100,6 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
       * Correção no envio de menu de filas (na 3ª tentativa, o ticket é enviado para a 1ª fila).
       * Agendamento agora envia imagem com texto e suporta ciclos.
       * Correção de vazamento no WebSocket.
-
-#### **Versão 5.5.0** (`13/12/2024`)
-
-  * **Interface:**
-      * Dashboard, Kanban e página de relatórios reformulados.
-      * Validação de número em `ContactModal`.
-  * **Funcionalidades:**
-      * Recusa automática de chamadas.
-      * Filas da conexão ao requisitar novo QR Code.
-      * Áudio no iPhone.
-      * Regressão OpenAI.
-  * **Correções:**
-      * Correção ao redimensionar a área de tickets.
-
-#### **Versão 5.3.5** (`07/11/2024`)
-
-  * **Funcionalidades:**
-      * Automações não são mais enviadas para grupos.
-      * Botão `disableBot` para desativar bots ou automações.
-      * Permissão para conexões com o mesmo nome.
-      * Opção de selecionar e deletar contatos na página de Contatos.
-      * Atualização automática do valor na lista do Financeiro após alteração de plano.
-  * **Correções:**
-      * Correção da data de vencimento no topo (agora fixa).
-      * Correção na mensagem citada.
-      * Correção no envio de áudio OGG em respostas rápidas.
-      * Expiração automática de conexões ao vencer a empresa.
-  * **Alterações:**
-      * Abas de visualização de tickets fechados e grupos por operador removidas do painel de usuários.
-
-#### **Versão 5.2.6** (`24/07/2024`)
-
-  * Fechamento de todos os tickets abertos ou em espera.
-  * Capacidade de reagir a mensagens e encaminhá-las para outro ticket.
-  * Notificação no chat quando uma mensagem é apagada no WhatsApp.
-  * Aparência do menu aprimorada, com adição do botão `Sair`.
-  * Indicação "Digitando" ou "Gravando" no canto inferior direito do ticket.
-  * API atualizada.
-  * Novo layout da página de login.
 
 # **⚖️ Termos de Uso e Licenciamento**
 
