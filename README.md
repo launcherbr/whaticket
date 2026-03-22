@@ -64,6 +64,10 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **🔄 Ver Histórico de Versões (Changelog)**
 
+#### **Versão 6.6.2** (`22/03/2026`)
+
+  * Bibiloteca libzapitu-rf
+
 #### **Versão 6.6.1** (`04/02/2026`)
 
   * Envio de Chave PIX com um click
