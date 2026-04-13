@@ -15,12 +15,6 @@ Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigat�
   * [Checkout Kirvano](https://pay.kirvano.com/a5103244-08d5-418f-8221-7172849dd65f)
   * [Anúncio DFG](https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065)
 
-Renovação de Acesso: 
-
-Se estiver migrando de outras versões ou precisar renovar seu acesso a nosso conteúdo, utilize o link com valor promocional.
-
-* [Loja InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/ine6649-whaticket-renovacao)
-
 ### **✨ Funcionalidades Principais**
 
   * **Gestão Visual:** Quadro **Kanban** integrado para organizar e priorizar tickets.
@@ -30,6 +24,7 @@ Se estiver migrando de outras versões ou precisar renovar seu acesso a nosso co
       * N8N
       * TypeBot
       * ChatGPT
+      * Gemini
   * **Conectividade:** Suporte a **WebHooks** para integrações personalizadas.
 
 ### **💻 Requisitos de Sistema**
@@ -46,12 +41,14 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 | Provedor | Plano | vCores | RAM | SSD NVMe | Preço Mensal | Cupom de Desconto |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hosteg** | Cloud - 8GB | 4 | 8 GB | 150 GB | R$99.90 |  |
+| **Platon** | VPS 8GB | 4 | 8 GB | 100 GB | R$99.90 | `20OFFVPS` (20% OFF no 1º pagamento) |
 | **Peramix** | Basic | 4 | 6 GB | 100 GB | $4.99 USD | `WHATICKET` (25% OFF no 1º pagamento) |
 | **Peramix** | Standard | 6 | 12 GB | 200 GB | $9.99 USD | `WHATICKET` (25% OFF no 1º pagamento) |
-| **Netcup** | VPS 1000 G11 | 4 | 8 GB | 256 GB | €5.75 | `36nc17542354680` (voucher de 5 euros) |
-| **Netcup** | VPS 2000 G11 | 8 | 16 GB | 512 GB | €12.60 USD | `36nc17542354680` (voucher de 5 euros) |
+| **Netcup** | VPS 1000 G11 | 4 | 8 GB | 256 GB | €5.75 | `36nc17691773970` (voucher de 5 euros) |
+| **Netcup** | VPS 2000 G11 | 8 | 16 GB | 512 GB | €12.60 USD | `36nc17691773970` (voucher de 5 euros) |
 
-  * Adquira aqui: [Peramix](https://control.peramix.com/?affid=14) | [Netcup](https://www.netcup.com/en/?ref=283810)
+  * Adquira aqui: [Hosteg](https://painelcliente.com.br/aff.php?aff=105) | [Platon](https://platon.com.br/central/aff.php?aff=58) | [Peramix](https://control.peramix.com/?affid=14) | [Netcup](https://www.netcup.com/en/?ref=341805)
 
 -----
 
