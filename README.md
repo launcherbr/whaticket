@@ -61,6 +61,9 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **🔄 Ver Histórico de Versões (Changelog)**
 
+#### **Versão 6.6.3** (`01/08/2026`)
+  * Correções e Melhorias
+
 #### **Versão 6.6.2** (`22/03/2026`)
 
   * Biblioteca libzapitu-rf
