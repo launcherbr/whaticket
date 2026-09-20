@@ -1,19 +1,8 @@
 # **WhaTicket SaaS | Gold Edition**
 
-Uma plataforma de atendimento robusta baseada no **Whaticket Gold**, aprimorada com um módulo Kanban, modo noturno e integrações avançadas para otimizar a comunicação com seus clientes. Distribuído por **Launcher & Co.**
-
-A distribuição da versão Free está temporariamte suspensa, com as recentes mudanças do WhatsApp relacionadas a JID/LID as versões anteriores deixaram de ser estavéis e foram removidas. </br>
-Para ter um sistema funcional adiquira o acesso a versão privada, promocionalmente com 50% de desconto no link de renovação de acesso abaixo:
+Uma plataforma de atendimento robusta baseada no **Whaticket Gold**, aprimorada com um módulo Kanban, modo noturno e integrações avançadas para otimizar a comunicação com seus clientes. Distribuído por **Launcher Tech.**
 
 -----
-
-#### **🛒 Adquira sua Licença Comercial e Acesso ao Suporte**
-
-Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigatória a aquisição de uma licença.
-
-  * [Loja InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba/) 🚀 **Melhor Oferta**
-  * [Checkout Kirvano](https://pay.kirvano.com/a5103244-08d5-418f-8221-7172849dd65f)
-  * [Anúncio DFG](https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065)
 
 ### **✨ Funcionalidades Principais**
 
@@ -57,9 +46,19 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
   * **Documentação Completa:** Acesse nosso guia de instalação e configuração em: [launcher-and-co.gitbook.io/whaticketsaas/](https://launcher-and-co.gitbook.io/whaticketsaas/).
   * **Suporte Técnico:** O suporte técnico é um serviço exclusivo, vinculado à aquisição da Licença Comercial. Após a compra, entre em contato via WhatsApp para obter seu acesso.
 
+#### **🛒 Adquira sua Licença Comercial e Acesso ao Suporte**
+
+Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigatória a aquisição de uma licença.
+
+  * [Loja InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba/)
+  * [Anúncio DFG](https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065)
+
 -----
 
 **🔄 Ver Histórico de Versões (Changelog)**
+
+#### **Versão 7.0.0** (`12/09/2026`)
+  * Correções e Melhorias
 
 #### **Versão 6.6.3** (`01/08/2026`)
   * Correções e Melhorias
@@ -77,7 +76,7 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
   * Correções no Menu
   * Correção no Audio
   * Removido Página Updates
-    
+
 #### **Versão 6.3.5** (`23/12/2025`)
 
   * Script de Backup
@@ -119,16 +118,16 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 **1. Licença de Uso do Software WhaTicket SaaS | Gold Edition**
 
-O **WhaTicket SaaS | Gold Edition**, distribuído pela **Launcher & Co.**, é um software derivado de projetos de código aberto. No entanto, esta versão específica, com suas modificações, integrações e funcionalidades agregadas, é regida pelos seguintes termos:
+O **WhaTicket SaaS | Gold Edition**, distribuído pela **Launcher Tech**, é um software derivado de projetos de código aberto. No entanto, esta versão específica, com suas modificações, integrações e funcionalidades agregadas, é regida pelos seguintes termos:
 
   * **Uso Pessoal e para Estudos:** Você tem a liberdade de baixar, instalar e utilizar o software para fins estritamente pessoais e de aprendizado. Esta modalidade **NÃO** concede o direito de uso comercial, revenda ou oferta do sistema como um serviço (SaaS).
-  * **Uso Comercial, Revenda e SaaS:** Para utilizar o software em um ambiente comercial, revendê-lo (modificado ou em sua forma original) ou explorá-lo como uma plataforma de serviço (SaaS), é **obrigatória a aquisição de uma Licença Comercial** junto à Launcher & Co. A licença garante o direito de exploração comercial e o acesso ao suporte técnico oficial.
+  * **Uso Comercial, Revenda e SaaS:** Para utilizar o software em um ambiente comercial, revendê-lo (modificado ou em sua forma original) ou explorá-lo como uma plataforma de serviço (SaaS), é **obrigatória a aquisição de uma Licença Comercial** junto à Launcher Tech A licença garante o direito de exploração comercial e o acesso ao suporte técnico oficial.
 
 A exploração comercial não autorizada do software constitui uma violação destes termos e da propriedade intelectual sobre as modificações e materiais agregados.
 
 **2. Sobre o Material de Apoio e Tutoriais (Conteúdo Autoral)**
 
-Todo e qualquer material de apoio (videoaulas, guias, tutoriais, manuais e documentações) desenvolvido pela **Launcher Tecnologia Ltda ME** (CNPJ: **26.651.889/0001-60**, nome fantasia **Launcher Tech**, nome comercial **Launcher & Co.**) é classificado como conteúdo autoral e propriedade intelectual da empresa.
+Todo e qualquer material de apoio (videoaulas, guias, tutoriais, manuais e documentações) desenvolvido pela **Launcher Tecnologia Ltda ME** (CNPJ: **26.651.889/0001-60**, nome fantasia **Launcher Tech**, nome comercial **Launcher Tech**) é classificado como conteúdo autoral e propriedade intelectual da empresa.
 
 Estes materiais são destinados exclusivamente para o estudo e uso pessoal do comprador original. Portanto, é **ESTRITAMENTE PROIBIDO**:
 
@@ -140,6 +139,6 @@ Estes materiais são destinados exclusivamente para o estudo e uso pessoal do co
 
 **3. Proteção Legal e Penalidades**
 
-Os materiais de apoio, tutoriais e as modificações autorais presentes nesta versão do software, distribuídos pela Launcher & Co., são juridicamente protegidos pela **Avctoris**. A violação dos direitos autorais e dos termos de licenciamento é crime. O infrator está sujeito às penalidades legais previstas na **Lei nº 9.610/98** (Lei de Direitos Autorais), na **Lei nº 9.279/96** (Lei de Propriedade Industrial) e no **art. 184 do Código Penal Brasileiro**, além de estar sujeito ao pagamento de indenização pelos prejuízos materiais e morais causados.
+Os materiais de apoio, tutoriais e as modificações autorais presentes nesta versão do software, distribuídos pela Launcher Tech, são juridicamente protegidos pela **Avctoris**. A violação dos direitos autorais e dos termos de licenciamento é crime. O infrator está sujeito às penalidades legais previstas na **Lei nº 9.610/98** (Lei de Direitos Autorais), na **Lei nº 9.279/96** (Lei de Propriedade Industrial) e no **art. 184 do Código Penal Brasileiro**, além de estar sujeito ao pagamento de indenização pelos prejuízos materiais e morais causados.
 
 Ao adquirir e utilizar nosso software e material de apoio, você concorda integralmente com os termos aqui estabelecidos.
