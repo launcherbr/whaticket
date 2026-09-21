@@ -1,140 +1,41 @@
-# **WhaTicket SaaS | Gold Edition**
+---
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
 
-Uma plataforma de atendimento robusta baseada no **Whaticket Gold**, aprimorada com um módulo Kanban, modo noturno e integrações avançadas para otimizar a comunicação com seus clientes. Distribuído por **Launcher Tech.**
+# Bem Vindo
 
------
+Este material representa a **documentação oficial do Whaticket**, distribuido exclusivamente pela **Launcher Tech c**om um formato aprimorado, buscamos trazer informações claras, organizadas e detalhadas, que auxiliem nossos clientes a usufruírem do máximo potencial da ferramenta. Cada procedimento foi meticulosamente descrito, garantindo simplicidade e eficiência nas atualizações e na manutenção do sistema.
 
-### **✨ Funcionalidades Principais**
+Nosso compromisso é **facilitar a experiência de todos os compradores**, proporcionando um suporte técnico acessível e soluções práticas para problemas comuns. Essa documentação foi elaborada pensando em minimizar dúvidas e otimizar o tempo dos usuários, tornando o Whaticket ainda mais intuitivo e adaptável às necessidades de sua operação. Contem conosco para garantir sempre o melhor desempenho! 😊
 
-  * **Gestão Visual:** Quadro **Kanban** integrado para organizar e priorizar tickets.
-  * **Interface Agradável:** **Modo noturno** para conforto visual em ambientes com pouca luz.
-  * **Automação e IA:**
-      * DialogFlow
-      * N8N
-      * TypeBot
-      * ChatGPT
-      * Gemini
-  * **Conectividade:** Suporte a **WebHooks** para integrações personalizadas.
 
-### **💻 Requisitos de Sistema**
 
-Para garantir a melhor performance, seu servidor deve atender às seguintes especificações mínimas:
+### Vamos para a próxima
 
-  * **Sistema Operacional:** Ubuntu 22.04 LTS.
-  * **Processador (vCores):** 4 ou mais.
-  * **Memória RAM:** 8 GB ou mais.
-  * **NodeJS:** **Versão 20** é obrigatória para a instalação.
-  * **Latência de Rede:** Ideal entre 10ms e 150ms. Latências muito baixas (\<10ms) ou muito altas (\>200ms) podem causar instabilidades.
-
-| Provedor | Plano | vCores | RAM | SSD NVMe | Preço Mensal | Cupom de Desconto |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Hosteg** | Cloud - 8GB | 4 | 8 GB | 150 GB | R$129.90 |  |
-| **Platon** | VPS 8GB | 4 | 8 GB | 100 GB | R$114.90 | `20OFFVPS` (20% OFF no 1º pagamento) |
-| **Hostinger** | KVM 4 | 4 | 16 GB | 200 GB | R$129.90 |  |
-| **Peramix** | Basic | 4 | 8 GB | 80 GB | $4.99 USD | `WHATICKET` (25% OFF no 1º pagamento) |
-| **Peramix** | Standard | 6 | 12 GB | 120 GB | $9.99 USD | `WHATICKET` (25% OFF no 1º pagamento) |
-
-  * Adquira aqui: [Hosteg](https://painelcliente.com.br/aff.php?aff=34) | [Platon](https://platon.com.br/central/aff.php?aff=58) | [Hostinger](https://www.hostinger.com/br?REFERRALCODE=4IWLEANDRWQD) | [Peramix](https://control.peramix.com/?affid=14)
------
-
-### **📚 Documentação e Suporte**
-
-  * **Documentação Completa:** Acesse nosso guia de instalação e configuração em: [launcher-and-co.gitbook.io/whaticketsaas/](https://launcher-and-co.gitbook.io/whaticketsaas/).
-  * **Suporte Técnico:** O suporte técnico é um serviço exclusivo, vinculado à aquisição da Licença Comercial. Após a compra, entre em contato via WhatsApp para obter seu acesso.
-
-#### **🛒 Adquira sua Licença Comercial e Acesso ao Suporte**
-
-Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigatória a aquisição de uma licença.
-
-  * [Loja InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/aep0253-script-crm-whaticket-gold-com-saas-e-kanba/)
-  * [Anúncio DFG](https://www.dfg.com.br/pt/outros/script-crm-whaticket-gold-com-saas-e-kanban-inclusos-939289065)
-
------
-
-**🔄 Ver Histórico de Versões (Changelog)**
-
-#### **Versão 7.0.0** (`12/09/2026`)
-  * Correções e Melhorias
-
-#### **Versão 6.6.3** (`01/08/2026`)
-  * Correções e Melhorias
-
-#### **Versão 6.6.2** (`22/03/2026`)
-
-  * Biblioteca libzapitu-rf
-
-#### **Versão 6.6.1** (`04/02/2026`)
-
-  * Envio de Chave PIX com um click
-  * Suporte Envio de GIFs e Stickers
-  * Ajustes no Modo Dark
-  * Novo Topo no Sistema
-  * Correções no Menu
-  * Correção no Audio
-  * Removido Página Updates
-
-#### **Versão 6.3.5** (`23/12/2025`)
-
-  * Script de Backup
-  * Aniversários e Feriados
-
-#### **Versão 6.3.5** (`11/11/2025`)
-
-  * Mercado Pago
-  * Gemini
-
-#### **Versão 6.3.2** (`28/09/2025`)
-
-  * Correção de criptografia de grupos
-  * Correções lib/wbot.ts
-
-#### **Versão 6.3.1** (`20/09/2025`)
-
-  * Correção de bugs relacionados a JID/LID.
-  * Melhorias de Performance
-
-#### **Versão 6.0.0** (`16/04/2025`)
-
-  * **Interface:**
-      * Aprimoramentos no Dark Mode (mensagens).
-      * Botão `Light/Dark` movido para o perfil do usuário.
-      * Dashboard: alteração nos estilos dos cards (botão de impressão removido).
-      * Estilo de ticket alterado.
-      * Layouts reformulados para: Respostas Rápidas, Página de Conexão, Tela de Login e Tela de Signup.
-      * Adicionada opção de `SuperAdmin`.
-  * **Funcionalidades:**
-      * Botão de tradução adicionado.
-      * Aviso exibido quando o ticket de um contato está aberto.
-  * **Correções:**
-      * Correção no envio de menu de filas (na 3ª tentativa, o ticket é enviado para a 1ª fila).
-      * Agendamento agora envia imagem com texto e suporta ciclos.
-      * Correção de vazamento no WebSocket.
-
-# **⚖️ Termos de Uso e Licenciamento**
-
-**1. Licença de Uso do Software WhaTicket SaaS | Gold Edition**
-
-O **WhaTicket SaaS | Gold Edition**, distribuído pela **Launcher Tech**, é um software derivado de projetos de código aberto. No entanto, esta versão específica, com suas modificações, integrações e funcionalidades agregadas, é regida pelos seguintes termos:
-
-  * **Uso Pessoal e para Estudos:** Você tem a liberdade de baixar, instalar e utilizar o software para fins estritamente pessoais e de aprendizado. Esta modalidade **NÃO** concede o direito de uso comercial, revenda ou oferta do sistema como um serviço (SaaS).
-  * **Uso Comercial, Revenda e SaaS:** Para utilizar o software em um ambiente comercial, revendê-lo (modificado ou em sua forma original) ou explorá-lo como uma plataforma de serviço (SaaS), é **obrigatória a aquisição de uma Licença Comercial** junto à Launcher Tech A licença garante o direito de exploração comercial e o acesso ao suporte técnico oficial.
-
-A exploração comercial não autorizada do software constitui uma violação destes termos e da propriedade intelectual sobre as modificações e materiais agregados.
-
-**2. Sobre o Material de Apoio e Tutoriais (Conteúdo Autoral)**
-
-Todo e qualquer material de apoio (videoaulas, guias, tutoriais, manuais e documentações) desenvolvido pela **Launcher Tecnologia Ltda ME** (CNPJ: **26.651.889/0001-60**, nome fantasia **Launcher Tech**, nome comercial **Launcher Tech**) é classificado como conteúdo autoral e propriedade intelectual da empresa.
-
-Estes materiais são destinados exclusivamente para o estudo e uso pessoal do comprador original. Portanto, é **ESTRITAMENTE PROIBIDO**:
-
-  * A revenda ou qualquer outra forma de comercialização deste material.
-  * O compartilhamento público do conteúdo em qualquer plataforma.
-  * A realização de modificações, traduções, ou qualquer alteração que vise se apropriar da autoria do material.
-  * A utilização do conteúdo para criar produtos derivados ou concorrentes.
-  * Apresentar o material, no todo ou em parte, como se fosse de sua própria autoria.
-
-**3. Proteção Legal e Penalidades**
-
-Os materiais de apoio, tutoriais e as modificações autorais presentes nesta versão do software, distribuídos pela Launcher Tech, são juridicamente protegidos pela **Avctoris**. A violação dos direitos autorais e dos termos de licenciamento é crime. O infrator está sujeito às penalidades legais previstas na **Lei nº 9.610/98** (Lei de Direitos Autorais), na **Lei nº 9.279/96** (Lei de Propriedade Industrial) e no **art. 184 do Código Penal Brasileiro**, além de estar sujeito ao pagamento de indenização pelos prejuízos materiais e morais causados.
-
-Ao adquirir e utilizar nosso software e material de apoio, você concorda integralmente com os termos aqui estabelecidos.
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Requisitos de Uso</td><td>Primeira Instalação</td><td></td><td></td><td></td><td><a href="comece-por-aqui/requisitos-de-uso.md">requisitos-de-uso.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td></td><td><a href="https://app.gitbook.com/s/XhuevKehyT7omW2fkyLr/basics">Basics</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td></td><td><a href="comece-por-aqui/primeira-instalacao.md">primeira-instalacao.md</a></td></tr></tbody></table>
